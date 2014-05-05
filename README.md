@@ -1,0 +1,1 @@
+# zoomIn is a image widget which enables a zoom-in mode - and it's responsive!

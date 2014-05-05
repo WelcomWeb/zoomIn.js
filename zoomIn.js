@@ -9,7 +9,7 @@
         zoomWindowWidth: 0.4,
         zoomWindowScale: 1,
         zoomWindowDimension: 'natural',
-        loadingText: 'Laddar bild'
+        loadingText: 'Loading...'
     },
 
     settings,
@@ -253,4 +253,4 @@
     };
 
     init(options);
-}
+};

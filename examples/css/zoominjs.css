@@ -33,7 +33,7 @@
   max-width: none;
 }
 .wel-zoom .loader {
-  background: url(/img/ajax-loader.gif) no-repeat center center;
+  background: url(../img/ajax-loader.gif) no-repeat center center;
   min-height: 31px;
   min-width: 31px;
   text-align: center;
